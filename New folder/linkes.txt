@@ -1,0 +1,11 @@
+our model:
+
+https://colab.research.google.com/drive/14wop09FD79bwXlLFsRT9G9Unuk22MBd6#scrollTo=8DhiW7UlrVr0
+
+dataset link:
+
+https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+
+youtube source:
+https://www.youtube.com/watch?v=8jpuZM6IoqU
