@@ -25,7 +25,6 @@ def detect_faces(input_image_path, output_folder_path):
         output_path = os.path.join(output_folder_path, f"face_{i + 1}.jpg")
         cv2.imwrite(output_path, face)
         print(f"Face {i + 1} saved at {output_path}")
-    print("ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss")
 # Example usage
 # input_image_path = ""
 # output_folder_path = "recognition"

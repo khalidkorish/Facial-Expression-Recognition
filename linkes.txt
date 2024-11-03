@@ -7,5 +7,3 @@ dataset link:
 https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 
-youtube source:
-https://www.youtube.com/watch?v=8jpuZM6IoqU
